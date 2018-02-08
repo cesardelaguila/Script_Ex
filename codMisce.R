@@ -1,4 +1,4 @@
-library(sas7bdat)
+ library(sas7bdat)
 library(Information)
 library(caret)
 datos = read.sas7bdat(file.choose())
